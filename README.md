@@ -11,8 +11,8 @@ This project was created as a student of the Global Career Accelerator program d
 
 # Design
 Here are some screenshots of my Figma board to brainstorm the game. Rough sketches are created in MS Paint.
-![alt text](design1.png)
-![alt text](design2.png)
+![Game mechanic concept art](design1.png)
+![Character concept art](design2.png)
   
 
 # Dev notes and Transparency
